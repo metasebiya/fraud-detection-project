@@ -1,0 +1,2 @@
+lgbm_n_estimators: 500
+lgbm_learning_rate: 0.05
