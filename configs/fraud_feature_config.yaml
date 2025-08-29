@@ -1,0 +1,16 @@
+numerical:
+  - purchase_value
+  - age
+  - time_since_signup_seconds
+  - time_since_signup_hours
+  - user_transactions_24h
+  - device_transactions_24h
+  - ip_transactions_24h
+
+categorical:
+  - source
+  - browser
+  - sex
+  - hour_of_day
+  - day_of_week
+  - country

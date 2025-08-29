@@ -1,0 +1,19 @@
+
+
+
+        data_paths:
+          fraud_data: "data/raw/Fraud_Data.csv"
+          ip_to_country: "data/raw/IpAddress_to_Country.csv"
+          creditcard_data: "data/raw/creditcard.csv"
+
+        feature_config_path: "configs/fraud_feature_config.yaml"
+
+        test_size: 0.2
+        random_state: 42
+        missing_value_strategy: "drop"
+        imbalance_strategy: "smote"
+
+
+
+
+
